@@ -6,6 +6,7 @@ https://x.com/elder_plinius/status/1823345600106037421
 
 # Unmentionable
 https://x.com/iruletheworldmo/status/1823345007710835125
+
 https://x.com/iruletheworldmo
 
 This Python script is designed to solve a puzzle by extracting potential OpenAI API keys hidden across up to 30 images. The script utilizes steganography, decoding techniques, and key assembly to find and validate API keys by querying OpenAI's model list.
